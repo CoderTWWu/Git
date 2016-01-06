@@ -1,0 +1,17 @@
+//
+//  AppDelegate.h
+//  融云的集成
+//
+//  Created by wtw on 15/12/27.
+//  Copyright © 2015年 jjl. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface AppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
+
+
+@end
+
